@@ -28,10 +28,10 @@ const Footer = () => {
             </h2>
             <nav class="list-none mb-10">
               <li>
-                <a class="text-white hover:text-gray-300">InQuery</a>
+                <a class="text-white hover:text-gray-300">InQuiry</a>
               </li>
               <li>
-                <a class="text-white hover:text-gray-300">TEvaluation</a>
+                <a class="text-white hover:text-gray-300">Evaluation</a>
               </li>
               <li>
                 <a class="text-white hover:text-gray-300">RATOOL</a>
@@ -69,7 +69,7 @@ const Footer = () => {
             <span class="ml-3 text-xl">HIGHTECH</span>
           </a>
           <p class="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">
-            © 2021 Hightech - All Right Reserved.
+            © 2022 Hightech - All Right Reserved.
           </p>
           <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
             <a class="text-gray-500">
